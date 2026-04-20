@@ -1,4 +1,4 @@
 # -DDODOD-ASji
 
 
-google.com
+https://google.com/settings
